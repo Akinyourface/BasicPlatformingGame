@@ -1,0 +1,8 @@
+import pygame
+from pygame.locals import *
+
+pygame.init()
+display = pygame.display.set_mode(640, 480)
+isrunning = True
+
+while isRunning 
